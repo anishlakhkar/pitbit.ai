@@ -1,0 +1,97 @@
+{
+    "name": "Anish Lakhkar",
+    "contact": {
+        "phone": "+91 8080649550",
+        "email": "anishlakhkar66@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/anish-lakhkar-93210b22b/",
+        "github": "https://github.com/anishlakhkar"
+    },
+    "education": [
+        {
+            "institution": "Vishwakarma Institute of Technology",
+            "degree": "Artificial Intelligence and Data Science",
+            "start_date": "12 2021",
+            "end_date": "06 2025",
+            "CGPA": "8.85",
+            "location": "Pune, India"
+        },
+        {
+            "institution": "Bharat Bharti",
+            "degree": "HSC",
+            "start_date": "07 2019",
+            "end_date": "07 2021",
+            "percentage": "97.33%",
+            "location": "Parbhani,India"
+        },
+        {
+            "institution": "Bal Vidya Mandir",
+            "degree": "SSC",
+            "start_date": "05 2013",
+            "end_date": "06 2019",
+            "percentage": "96.80%",
+            "location": "Parbhani,India"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Graphical Authentication System",
+            "date": "02 2023",
+            "description": "A web-based graphical password authentication system made using Flask...",
+            "technologies": ["Flask", "Python", "HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Stock Market Analysis and Prediction",
+            "date": "05 2022",
+            "description": "Developed a stock market prediction system utilizing LSTM networks...",
+            "technologies": ["Python", "LSTM", "TensorFlow", "Keras", "Pandas", "Matplotlib", "Yahoo Finance API", "Streamlit"]
+        },
+        {
+            "name": "SafeBite: Food Allergen Detection App",
+            "date": "09 2023",
+            "description": "Built an app using Flutter that employs image recognition...",
+            "technologies": ["Flutter", "Flask", "Machine Learning", "Data Mining"]
+        }
+    ],
+    "technical_skills": {
+        "coursework": ["Data Structures and Algorithms", "Database Management System", "Operating System", "Deep Learning", "Machine Learning", "OOPS"],
+        "languages": ["C", "C++", "Python", "SQL", "HTML", "CSS"],
+        "technologies_frameworks": ["Flask", "MySQL", "Deep Learning Models", "Langchain"],
+        "familiar": ["GEN AI", "LLM Models", "Blockchain", "React"]
+    },
+    "extracurricular": [
+        {
+            "name": "Aatmabodh",
+            "date": "Oct 2022",
+            "role": "Volunteer",
+            "description": "Organised an initiative to teach elderly persons about new technologies..."
+        }
+    ],
+    "certifications_achievements": [
+        {
+            "title": "Paper published at IDSCS 2023",
+            "description": ""
+        },
+        {
+            "title": "2-star on CodeChef and 5-star on C++ HackerRank",
+            "description": "400+ solved in Leetcode, Codechef and Hackerrank"
+        },
+        {
+            "title": "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus - Udemy",
+            "description": "",
+            "link": "https://www.udemy.com/certificate/UC-7af8b4d5-95f2-442e-a99d-54a28ef688c5/"
+        },
+        {
+            "title": "Deep Learning - Nvidia: Fundamentals of Deep Learning Certification",
+            "description": "",
+            "link": "https://courses.nvidia.com/certificates/1390b8a4e3d642ad86e67fb6dfc7f516/"
+        },
+        {
+            "title": "Completed foundation training and certification on Cross Platform Mobile & Web App Development for HCL Tech",
+            "description": ""
+        },
+        {
+            "title": "Paper acceptance at ICDSAI 2024",
+            "description": ""
+        }
+    ]
+}
